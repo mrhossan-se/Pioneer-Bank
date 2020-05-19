@@ -1,0 +1,57 @@
+
+ body{
+  padding: 100px 120px;
+ }
+
+ .submit-area{
+     box-shadow: 5px 5px 10px gray;
+     border-radius: 10px;
+     margin-top: 50px;
+     padding: 40px;
+ }
+
+ .text-center, .login{
+    font-weight: 600;
+ }
+
+ #transaction-Area{
+    display: none;
+ }
+
+ .diposit{
+     background-color: #5E4AC7;
+ }
+
+ .withdrow{
+     background-color: #F59471;
+ }
+
+ .blance{
+     background-color:#F49916;
+ }
+
+.statas{
+    
+    padding: 20px 20px;
+    border-radius: 10px;
+    margin: 40px;
+    color: white;
+    font-weight: 500;
+}
+
+.sub-area{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    margin-top: 30px;
+    padding: 40px;
+}
+.diposit-with{
+    font-weight: 600;
+}
+.wuthdrow-with{
+    font-weight: 600;
+}
+
+
+
+
